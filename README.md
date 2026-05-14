@@ -30,7 +30,7 @@ MVC Design Pattern.
 How to Run--  
 
 1.Clone the repository 
-git clone <your-repo-link>    
+git clone (<your-repo-link>)    
 2.Open the project in Eclipse or any Java IDE    
 3.Run Main.java
 
