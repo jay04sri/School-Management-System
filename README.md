@@ -29,7 +29,7 @@ MVC Design Pattern.
 
 How to Run--  
 
-1.Clone the repository 
+1.Clone the repository  
 git clone your repo link    
 2.Open the project in Eclipse or any Java IDE    
 3.Run Main.java
@@ -37,6 +37,3 @@ git clone your repo link
 Project Purpose--  
 
 This project was mainly created for learning and practice purposes to strengthen my Java programming skills and understand real-time project structure.
-git clone <your-repo-link>
-Open the project in Eclipse or any Java IDE
-Run Main.java
