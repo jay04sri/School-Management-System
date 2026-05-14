@@ -1,0 +1,21 @@
+package model;
+
+public class Teacher extends Person{
+	private String subject;
+	
+	public String getSubject() {
+		return subject;
+	}
+	public void setSubject(String subject) {
+		this.subject=subject;
+	}
+	
+	public Teacher(int id,String name,String subject) {
+		super(id,name);
+		this.subject=subject;
+	}
+	
+	public void display() {
+		System.out.println("| ID:"+id+"NAME:"+name+"SUBJECT:"+subject);
+	}
+}
